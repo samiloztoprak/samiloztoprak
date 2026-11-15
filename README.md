@@ -31,6 +31,8 @@ Team project. I worked on it for 5 years, first as Gameplay Programmer, then as 
 
 ### Match-3 Puzzle Game (Unity / C#) — in progress
 
+**[See Repository](https://github.com/samiloztoprak/match3)**
+
 A Match-3 game I am building to show clean, testable game architecture.
 
 - **Pure C# core** with no Unity references, so all game rules can be tested with NUnit without opening Unity
