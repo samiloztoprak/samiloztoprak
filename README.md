@@ -34,6 +34,7 @@ Team project. I worked on it for 5 years, first as Gameplay Programmer, then as 
 ### Match-3 Puzzle Game (Unity / C#) — in progress
 
 **[See Repository](https://github.com/samiloztoprak/match3)**
+
 <img width="300" height="533" alt="gameplay_4" src="https://github.com/user-attachments/assets/074cede2-f71e-42ad-b9c3-5a94caa34753" />
 
 A Match-3 game I am building to show clean, testable game architecture.
