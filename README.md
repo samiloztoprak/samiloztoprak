@@ -11,6 +11,7 @@ I have 5 years of professional experience building gameplay systems in Unreal En
 
 ### SmoothPath — AI Path Smoothing Plugin (UE5 / C++)
 **[View on Fab](https://fab.com/sellers/SamilOztoprak)**
+<img width="1280" height="720" alt="smoothpath_banner" src="https://github.com/user-attachments/assets/9766a3ec-85cc-45a4-b4cb-991fb74ade33" />
 
 My own plugin, published on Fab. I designed and wrote everything myself.
 
@@ -20,6 +21,7 @@ My own plugin, published on Fab. I designed and wrote everything myself.
 
 ### Black State — Motion Blur Game Studio (UE5 / C++)
 **[Watch the trailer](https://www.youtube.com/watch?v=FJP2comhcN8)**
+<img width="1280" height="720" alt="blackstate_takedown" src="https://github.com/user-attachments/assets/b2d34eb9-4f45-41ae-9fce-d9686cf94a5d" />
 
 Team project. I worked on it for 5 years, first as Gameplay Programmer, then as Mid Game Developer. My main systems:
 
@@ -32,6 +34,7 @@ Team project. I worked on it for 5 years, first as Gameplay Programmer, then as 
 ### Match-3 Puzzle Game (Unity / C#) — in progress
 
 **[See Repository](https://github.com/samiloztoprak/match3)**
+<img width="300" height="533" alt="gameplay_4" src="https://github.com/user-attachments/assets/074cede2-f71e-42ad-b9c3-5a94caa34753" />
 
 A Match-3 game I am building to show clean, testable game architecture.
 
